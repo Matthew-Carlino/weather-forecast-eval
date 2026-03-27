@@ -37,7 +37,7 @@ Example: predicting New York City (KNYC) afternoon temperature bracket at 1 PM E
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/weather-forecast-eval.git
+git clone https://github.com/Matthew-Carlino/weather-forecast-eval.git
 cd weather-forecast-eval
 pip install -r requirements.txt
 ```
